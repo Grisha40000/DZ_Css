@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\DZ__C#\DZ_9C#\bin\Debug\net6.0\DZ_9C#.exe
+C:\Users\user\Desktop\DZ__C#\DZ_9C#\bin\Debug\net6.0\DZ_9C#.deps.json
+C:\Users\user\Desktop\DZ__C#\DZ_9C#\bin\Debug\net6.0\DZ_9C#.runtimeconfig.json
+C:\Users\user\Desktop\DZ__C#\DZ_9C#\bin\Debug\net6.0\DZ_9C#.dll
+C:\Users\user\Desktop\DZ__C#\DZ_9C#\bin\Debug\net6.0\DZ_9C#.pdb
+C:\Users\user\Desktop\DZ__C#\DZ_9C#\obj\Debug\net6.0\DZ_9C#.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\DZ__C#\DZ_9C#\obj\Debug\net6.0\DZ_9C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\DZ__C#\DZ_9C#\obj\Debug\net6.0\DZ_9C#.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\DZ__C#\DZ_9C#\obj\Debug\net6.0\DZ_9C#.AssemblyInfo.cs
+C:\Users\user\Desktop\DZ__C#\DZ_9C#\obj\Debug\net6.0\DZ_9C#.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DZ__C#\DZ_9C#\obj\Debug\net6.0\DZ_9C#.dll
+C:\Users\user\Desktop\DZ__C#\DZ_9C#\obj\Debug\net6.0\refint\DZ_9C#.dll
+C:\Users\user\Desktop\DZ__C#\DZ_9C#\obj\Debug\net6.0\DZ_9C#.pdb
+C:\Users\user\Desktop\DZ__C#\DZ_9C#\obj\Debug\net6.0\DZ_9C#.genruntimeconfig.cache
+C:\Users\user\Desktop\DZ__C#\DZ_9C#\obj\Debug\net6.0\ref\DZ_9C#.dll
